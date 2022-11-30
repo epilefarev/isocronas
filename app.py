@@ -22,7 +22,7 @@ navbar = dbc.NavbarSimple(
     dark=True,
     fluid=True,
 )
-y
+
 # barra de menu
 sidebar = html.Div(
     [
