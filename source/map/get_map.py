@@ -28,4 +28,4 @@ def get_and_save_all_type_map(lat, lon, dist):
 
 lat, lon, dist = -33.4324959, -70.6271985, 500
 get_and_save_all_type_map(lat, lon, dist)
-add_edge_speeds()
+# add_edge_speeds()
